@@ -6,3 +6,5 @@ content.md
 presets.yaml
 build.py
 README.md
+**.tex
+cv/
